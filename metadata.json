@@ -1,0 +1,6 @@
+{
+  "name": "Amani Community Pharmacy - Medicine Price & WhatsApp Order",
+  "description": "Find your medicine and see the price before you walk in. Search shelf list, calculate per-unit KES prices, and send your list to your nearest store on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
